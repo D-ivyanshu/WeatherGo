@@ -23,3 +23,17 @@ https://weather-go-one.vercel.app/
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts" />
   </a>
+
+
+## Run Locally
+
+-Clone the repository or navigate to the project directory:
+   
+   ```git clone <repository_url>```
+
+-Install dependencies using npm or yarn:
+``` #Using npm npm install```
+
+Start the development server:
+
+

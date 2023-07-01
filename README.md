@@ -27,15 +27,15 @@ https://weather-go-one.vercel.app/
 
 ## Run Locally
 
--Clone the repository or navigate to the project directory:
+- Clone the repository or navigate to the project directory:
    
    ```git clone <repository_url>```
 
--Install dependencies using npm or yarn:
+- Install dependencies using npm or yarn:
 
 ``` npm install```
 
--Start the development server:
+- Start the development server:
 
 ```npm run dev```
 This will start the Vite development server and open your app in the browser.

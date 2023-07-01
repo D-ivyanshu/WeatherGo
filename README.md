@@ -21,7 +21,7 @@ https://weather-go-one.vercel.app/
 ## Tools and Technologies Used
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,vite,vscode" />
   </a>
 
 

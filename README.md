@@ -34,6 +34,11 @@ Create a simple weather application that displays the current weather informatio
 
 Note: Feel free to customize or modify the assignment as per your specific requirements or to focus on certain aspects of frontend development that are important for the internship position.
 
+
+
+
+
+
 # WeatherGo ☁ 
 
 The Weather Go is a fully responsive weather app built using the React library.
